@@ -1,0 +1,10 @@
+{
+	"trip_id" : 1,
+	"users_to_clean_queue" : [
+		{"user_id": 1, "message":""},
+		{"user_id": 2, "message":""},
+		{"user_id": 3, "message":""},
+		{"user_id": 4, "message":""},
+		{"user_id": 5, "message":""}
+	]
+}

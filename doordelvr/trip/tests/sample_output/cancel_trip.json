@@ -1,0 +1,18 @@
+{
+        "trip_id" : 1,
+        "action_type" : "request_to_cancel",
+	"message" : "Your trip has been cancelled",
+        "cancelled_by" : {
+                "user_id" : 1,
+                "user_type" : "trip_creator/trip_delivery_person"
+        },
+        "requestor_info" : {
+                "user_id" : 1,
+                "user_name" : "Test-B"
+        },
+        "trip_creator_info" : {
+                "user_id" : 2,
+                "user_name" : "Test-A"
+        }
+}
+

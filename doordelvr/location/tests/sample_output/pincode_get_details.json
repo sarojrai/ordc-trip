@@ -1,0 +1,14 @@
+{
+    "is_error": false,
+    "status": 200,
+    "message": "You Fetched Pincode Details Successfully",
+    "data": [{
+        "pincode": "400065",
+        "city": "Mumbai",
+        "state": "Maharashtra",
+        "gst_state_code": "",
+        "is_active": false,
+        "created_at": "2020-08-30T16:57:10.092308Z",
+        "updated_at": "2020-08-30T16:57:10.115836Z"
+    }]
+}

@@ -1,0 +1,9 @@
+{
+  "is_error": false,
+  "status": 200,
+  "message": "Trip Status Updated Successfully",
+  "data": {
+    "trip_id": 1,
+    "trip_update": "SUCCESS"
+  }
+}

@@ -1,0 +1,4 @@
+{
+  "trip_id": 1,
+  "trip_status": "CREATED/UPDATED/BROADCAST/CANCELLED/COMPLETED"
+}

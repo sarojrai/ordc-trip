@@ -1,0 +1,13 @@
+{
+	"trip_id" : 1,
+	"grant_status" : "REJECTED/APPROVED",
+        "action_type" : "request_to_deliver",
+        "requestor_info" : {
+                "user_id" : 1,
+		"user_name" : "Test-B"
+        },
+	"trip_creator_info" : {
+		"user_id" : 2,
+		"user_name" : "Test-A"
+	}
+}

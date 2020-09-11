@@ -1,0 +1,17 @@
+{
+	"trip_id" : 1,
+	"action_type" : "request_to_deliver",
+	"requestor_info" : 
+	{
+		"user_id" : 1,
+	        "user_name" : "Test-B",	
+		"vehicle" : "2-WHEELER",
+		"mobile" : "NA",
+		"bid_amount" : null,
+		"address" : {
+			"latitude": 23.43,
+			"longitude" : 3.4,
+			"pincode" : ""
+		}
+	} 
+}

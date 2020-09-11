@@ -1,0 +1,13 @@
+{
+  "is_error": false,
+  "status": 200,
+  "message": "Trip Cancelled Successfully",
+  "data": {
+    "trip_id": 1,
+    "trip_cancelled_by": {
+      "user_id": 4,
+      "user_type": "TRIP-CREATOR/DELIVERY-BOY"
+    },
+    "status": "CANCELLED"
+  }
+}

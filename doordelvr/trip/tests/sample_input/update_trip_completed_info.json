@@ -1,0 +1,18 @@
+{
+  "trip_id": 1,
+  "trip_created_by": {
+    "user_id": 5,
+    "user_name": "User 5"
+  },
+  "trip_delivered_by": {
+    "user_id": 4,
+    "user_name": "User 4"
+  },
+  "status": "COMPLETED",
+  "payment_type": "CASH/PREPAID",
+  "estimated_trip_charge": 78.0,
+  "total_trip_charge": 80.0,
+  "trip_discount": 0.0,
+  "total_time_elapsed": 34.90,
+  "total_distance_traveled": 4
+}

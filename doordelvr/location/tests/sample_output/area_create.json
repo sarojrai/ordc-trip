@@ -1,0 +1,12 @@
+{
+    "is_error": false,
+    "status": 200,
+    "message": "Area has been created successfully",
+    "data": {
+        "code": "GNG",
+    	"name": "Goregaon(E)",
+    	"pincode_id": "7",
+    	"latitude": 76.35,
+    	"longitude": 26.67
+    }
+}

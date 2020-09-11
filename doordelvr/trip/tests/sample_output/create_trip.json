@@ -1,0 +1,12 @@
+{
+    "is_error": false,
+    "status": 200,
+    "message": "Trip Created Successfully",
+    "data": {
+        "trip_id": 3,
+        "trip_ref_number": "1599085178238279",
+        "pickup_address_id": 25,
+        "drop_address_id": 26,
+        "trip_status": "CREATED"
+    }
+}

@@ -1,0 +1,68 @@
+{
+	"trip_pickup_address": {
+		"id" : null,
+		"address": "34th steet, powai lake, Mumbai",
+		"area": "Powai Lake",
+		"city": "Mumbai",
+		"state": "MH",
+		"pincode": "400092",
+		"country": "INDIA",
+		"latitude": 23.430,
+		"longitude": 34.560
+	},
+	"trip_drop_address": {
+		"id" : null,
+		"address": "plot-10,10th steet, powai lake, Mumbai",
+		"area": "Cross Street",
+		"city": "Mumbai",
+		"state": "MH",
+		"pincode": "400084",
+		"country": "INDIA",
+		"latitude": 23.430,
+		"longitude": 34.560
+	},
+	"trip_via": {},
+	"trip_created_by": {
+		"user_id": 5,
+		"user_name": "User 5"
+	},
+	"trip_created_at": "2020-08-11 14:14:34",
+	"shipments": [
+		{
+			"id":null,
+			"description": "Glass",
+			"dimension": "4*1*3",
+			"weight": "150",
+			"value": "800",
+			"quantity": 2,
+			"category": "HOUSEHOLD",
+			"image_top": "",
+			"image_bottom": "",
+			"image_left": "",
+			"image_right": "",
+			"additional_note": "Handle With Care"
+		},
+		{
+			"id":null,
+			"description": "Grocery",
+			"dimension": "1*1*!",
+			"weight": "2000",
+			"value": "380",
+			"quantity": 7,
+			"category": "HOUSEHOLD",
+			"image_top": "",
+			"image_bottom": "",
+			"image_left": "",
+			"image_right": "",
+			"additional_note": "Do not unpack"
+		}
+	],
+	"number_of_items": 1,
+	"vehicle_category": "TWO-WHEELER",
+	"status": "CREATED",
+	"total_weight": 1.76,
+	"total_delivery_value": 1180.00,
+	"payment_type" : "CASH/PREPAID",
+	"estimated_trip_charge": 78.0,
+	"trip_discount": 0.0
+}

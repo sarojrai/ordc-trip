@@ -1,0 +1,6 @@
+{
+    "is_error": false,
+    "status": 200,
+    "message": "You have successfully changed status as active",
+    "data": {}
+}

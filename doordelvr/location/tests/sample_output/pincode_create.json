@@ -1,0 +1,11 @@
+{
+    "is_error": false,
+    "status": 200,
+    "message": "Pincode has been created successfully",
+    "data": {
+        "pincode": "400410",
+        "city": "Mumbai",
+        "state": "MH",
+        "gst_state_code": 27
+    }
+}

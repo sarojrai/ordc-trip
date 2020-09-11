@@ -1,0 +1,11 @@
+{
+  "is_error": false,
+  "status": 200,
+  "message": "Trip Fare Info Successfully",
+  "data": {
+    "trip_id": 1,
+    "estimated_trip_charge": 78.0,
+    "total_trip_charge": 80.0,
+    "trip_discount_amount": 34.90
+  }
+}

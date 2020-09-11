@@ -1,0 +1,4 @@
+Django==2.2
+django-user-agents==0.4.0
+djangorestframework==3.11.0
+djangorestframework-simplejwt==4.4.0

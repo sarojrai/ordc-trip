@@ -1,0 +1,16 @@
+{
+  "trip_id": 1,
+  "location_info": {
+    "source_location": {
+      "latitude": 34.2,
+      "longitude": 32.5
+    },
+    "destination_location": {
+      "latitude": 34.2,
+      "longitude": 32.5
+    }
+  },
+  "trip_discount_amount": 2.1,
+  "total_time_elapsed": 12.9,
+  "estimated_distance": 4.5
+}
